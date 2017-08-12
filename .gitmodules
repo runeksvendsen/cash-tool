@@ -1,0 +1,3 @@
+[submodule "bitcoincashlib"]
+	path = bitcoincashlib
+	url = https://github.com/runeksvendsen/python-bitcoincashlib
